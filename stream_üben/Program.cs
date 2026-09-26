@@ -76,5 +76,6 @@ using (FileStream fs = File.OpenRead("D:\\Uni\\SS-26\\Prog_2\\aa\\alaa.txt"))
         Console.WriteLine(temp.GetString(b));
     }
 
+    string aaaaaa = "aaa";
 
 }
